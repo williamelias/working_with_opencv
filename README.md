@@ -2,5 +2,7 @@
 
 ## Organização dos diretórios
 
+![tree_image]('./docs/tree_.png' "Title")
+
 
 
