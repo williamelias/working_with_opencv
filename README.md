@@ -2,7 +2,7 @@
 
 ## Organização dos diretórios
 
-![tree_image]('./docs/tree_.png' "Title")
+![tree_image](https://github.com/williamelias/working_with_opencv/blob/master/docs/tree_.png "Title")
 
 
 
