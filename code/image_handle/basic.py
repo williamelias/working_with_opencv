@@ -85,3 +85,6 @@ class CVHandler:
         orig_size = img.shape[0:2]
         cv.imshow("Original image", img)
         cv.waitKey(2000)
+    
+        
+    

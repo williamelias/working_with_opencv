@@ -17,4 +17,7 @@
 
     - python3 code/main.py
 
+## Referências 
+
+- Spizhevoi,Aleksei ; Rybnikov,Aleksandr . OpenCV 3 Computer Vision with Python Cookbook. Packet,2018.
 

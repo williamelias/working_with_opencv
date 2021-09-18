@@ -8,5 +8,5 @@ class CustomCli:
         args = vars(args)
         return args
     def _set_params(self):
-        self.parser.add_argument('--command', default=0, help='default command cli') 
+        self.parser.add_argument('--command', default='0', help='default command cli') 
         self.parser.add_argument('--path', default='code/media/imgs/img.png', help='Image path.')
